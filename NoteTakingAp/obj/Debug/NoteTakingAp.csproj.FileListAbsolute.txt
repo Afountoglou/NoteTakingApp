@@ -1,0 +1,11 @@
+C:\Users\User1\Desktop\TournamentTracker\NoteTakingAp\NoteTakingAp\bin\Debug\NoteTakingAp.exe.config
+C:\Users\User1\Desktop\TournamentTracker\NoteTakingAp\NoteTakingAp\bin\Debug\NoteTakingAp.exe
+C:\Users\User1\Desktop\TournamentTracker\NoteTakingAp\NoteTakingAp\bin\Debug\NoteTakingAp.pdb
+C:\Users\User1\Desktop\TournamentTracker\NoteTakingAp\NoteTakingAp\obj\Debug\NoteTakingAp.csproj.AssemblyReference.cache
+C:\Users\User1\Desktop\TournamentTracker\NoteTakingAp\NoteTakingAp\obj\Debug\NoteTakingAp.csproj.SuggestedBindingRedirects.cache
+C:\Users\User1\Desktop\TournamentTracker\NoteTakingAp\NoteTakingAp\obj\Debug\NoteTakingAp.NoteTaker.resources
+C:\Users\User1\Desktop\TournamentTracker\NoteTakingAp\NoteTakingAp\obj\Debug\NoteTakingAp.Properties.Resources.resources
+C:\Users\User1\Desktop\TournamentTracker\NoteTakingAp\NoteTakingAp\obj\Debug\NoteTakingAp.csproj.GenerateResource.cache
+C:\Users\User1\Desktop\TournamentTracker\NoteTakingAp\NoteTakingAp\obj\Debug\NoteTakingAp.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\TournamentTracker\NoteTakingAp\NoteTakingAp\obj\Debug\NoteTakingAp.exe
+C:\Users\User1\Desktop\TournamentTracker\NoteTakingAp\NoteTakingAp\obj\Debug\NoteTakingAp.pdb
